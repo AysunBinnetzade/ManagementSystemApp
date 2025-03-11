@@ -3,7 +3,7 @@ export const ROUTES = {
     WORKER: {
         LOGIN:"/login",
         REGISTER: "/register",
+        PASSWORD:"/password"
     },
-
     
 }
